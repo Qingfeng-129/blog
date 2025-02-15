@@ -1499,17 +1499,6 @@ body {
 input::placeholder {
   color: var(--font-color);
 }
-#web_bg {
-  position: fixed;
-  z-index: -999;
-  width: 100%;
-  height: 100%;
-  background: http://gips3.baidu.com/it/u=4283915297,3700662292&fm=3028&app=3028&f=JPEG&fmt=auto?w=1440&h=2560;
-  background-attachment: local;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 h1,
 h2,
 h3,
